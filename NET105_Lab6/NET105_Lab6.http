@@ -1,0 +1,6 @@
+@NET105_Lab6_HostAddress = http://localhost:5260
+
+GET {{NET105_Lab6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
